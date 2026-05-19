@@ -1,0 +1,15 @@
+{
+  "asset":"HAIRPENPEN",
+  "name":"HAIRPENPEN",
+  "description":"HAIRPENPEN Pepe Project card",
+  "images":[
+    {
+      "type":"icon",
+      "data":"https://raw.githubusercontent.com/DazeOner/HAIRPENPEN-CARD-AND-ICON-PNG/main/HAIRPENPEN%2048x48%20icon.png"
+    },
+    {
+      "type":"large",
+      "data":"https://raw.githubusercontent.com/DazeOner/HAIRPENPEN-CARD-AND-ICON-PNG/main/HAIRPENPEN%20400X560.jpg"
+    }
+  ]
+}
